@@ -10,7 +10,7 @@ CONS()
 CONS is a graphic interface
 }
 \description{
-Consonance Analysis is a useful numerical and graphical approach for evaluating the consistency of the measurements and the panel of people involved in sensory evaluation. It makes use of several uni and multivariate techniques either graphical or analytical.
+Consonance Analysis is a useful numerical and graphical approach for evaluating the consistency of the measurements and the panel of people involved in sensory evaluation. It makes use of several uni and multivariate techniques either graphical or analytical. It shows the implementation of this procedure in a graphical interface.
 
 You can learn more about this package at:
 http://www.uv.mx/personal/nehuerta/cons/
@@ -23,6 +23,7 @@ or analytical. The procedure helps evaluate the linearirty of an attribute with 
 performance. If there is evidence that an attribute is not linear then this information could be used to
 improve the evaluation of such characteristic. The method also helps detect whether some members of
 the panel deviate from the rest. A critical tool for this procedure is Principal Components Analysis.
+Note: CONS is free software and comes with ABSOLUTELY NO WARRANTY.
 }
 \examples{
 \dontrun{
